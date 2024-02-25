@@ -1,0 +1,158 @@
+.body{
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+.hea_a{
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+}
+.hea_b{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+
+
+.hsek_b{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.hea_c{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    background-color: #FFFFFF;
+}
+.hsek_c{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+}
+.hsek_d{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+}
+.paragraph{
+    font-weight: 400;
+    line-height: 1.5em;
+    letter-spacing: 0.02em;
+    background-color: #FFFFFF;
+    color:  #434455;
+}
+.header{
+    
+}
+.section_a{
+    background-color: #2E2F42;
+    color: #FFFFFF;
+}
+.section_b{
+    color: #2e2f42;
+}
+.section_c{
+    background-color: #F4F4FD;
+    color: #2e2f42;
+}
+.section_d{
+    color: #2e2f42;
+}
+.footer{
+    background-color: #2E2F42;
+    color: #FFFFFF;
+}
+.button{
+    background-color: #4D5AE5;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    
+}
+.button:hover, .button:focus{
+    background-color: #404BBF;
+}
+a:hover{
+    color: #404bbf;
+}
+
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.logo-span{
+    color: #2e2f42;
+}
+.link_a{
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-decoration: none;
+}
+.link_a:focus, .link_a:active{
+   
+    color: #404bbf;
+}
+
+.address{
+    font-style: normal;
+}
+
+.address_a{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.address_a:focus{
+    color: #404bbf;
+}
+
+.logo-span_a{
+    color: #f4f4fd;
+}
+
+.paragraph_footer{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
+
+.lis{
+    background-color: #FFFFFF;
+    list-style: none;
+
+}
+.li{
+    list-style: none;
+}
+.list{
+    list-style: none;
+}
+.list:focus, .list:active, .list:hover, .list:visited{
+    color: #404bbf;
+}
