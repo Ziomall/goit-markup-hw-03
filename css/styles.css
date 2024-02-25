@@ -2,6 +2,10 @@
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
+    width: 1440px;
+    height: 3300px;
+    bottom: #E7E9FC;
+    margin: 0px, 0px, 1px, 0px;
 }
 .hea_a{
     font-weight: 700;
@@ -57,25 +61,46 @@
     color:  #434455;
 }
 .header{
-    
+    width: 1440px;
+    height: 72px;
+    border: 1px;
 }
 .section_a{
     background-color: #2E2F42;
     color: #FFFFFF;
+    width: 1440px;
+    height: 600px;
+    text-align: center;
 }
 .section_b{
     color: #2e2f42;
+    width: 1128px;
+    height: 104px;
+    margin-top: 792px;
+    margin-left: 156px;
+    
 }
 .section_c{
     background-color: #F4F4FD;
     color: #2e2f42;
+    width: 1440px;
+    height: 732px;
+    margin-top: 1016px;
 }
 .section_d{
     color: #2e2f42;
+    width: 1128px;
+    height: 1000px;
+    margin-top: 1868px;
+    margin-left: 156px;
+    border: 1px;
 }
 .footer{
     background-color: #2E2F42;
     color: #FFFFFF;
+    width: 1440px;
+    height: 312px;
+    margin-top: 2988px;
 }
 .button{
     background-color: #4D5AE5;
@@ -103,6 +128,9 @@ a:hover{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    margin-top: 24px;
+    margin-left: 156px;
+    
 }
 .logo-span{
     color: #2e2f42;
@@ -121,6 +149,8 @@ a:hover{
 
 .address{
     font-style: normal;
+    margin-top: 24px;
+    margin-left: 940px;
 }
 
 .address_a{
@@ -149,10 +179,19 @@ a:hover{
 }
 .li{
     list-style: none;
+    
 }
 .list{
     list-style: none;
+    margin-top: 24px;
+    margin-left: 347px;
+    gap: 40px;
+    
 }
 .list:focus, .list:active, .list:hover, .list:visited{
     color: #404bbf;
+}
+
+.ul{
+    display: inline;
 }
