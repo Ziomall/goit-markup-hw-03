@@ -64,6 +64,7 @@
     width: 1440px;
     height: 72px;
     border: 1px;
+    
 }
 .section_a{
     background-color: #2E2F42;
@@ -120,18 +121,9 @@ a:hover{
     color: #404bbf;
 }
 
-.logo{
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
-    margin-top: 24px;
-    margin-left: 156px;
+
     
-}
+
 .logo-span{
     color: #2e2f42;
 }
@@ -183,9 +175,7 @@ a:hover{
 }
 .list{
     list-style: none;
-    margin-top: 24px;
-    margin-left: 347px;
-    gap: 40px;
+
     
 }
 .list:focus, .list:active, .list:hover, .list:visited{
