@@ -39,6 +39,7 @@
     background-color: #FFFFFF;
     margin-bottom: 8px;
     text-align: center;
+    margin: 0;
 }
 .hsek-c{
     font-weight: 700;
@@ -48,10 +49,13 @@
     text-align: center;
     text-transform: capitalize;
     margin-bottom: 72px;
+    margin: 0;
 }
 .hsek-c-list{
     display: flex;
     gap: 24px;
+    margin: 0;
+    padding: 0;
 }
 .hsek-d{
     font-weight: 700;
@@ -87,6 +91,7 @@
     background-color: #FFFFFF;
     color:  #434455;
     margin-bottom: 8px;
+    margin: 0;
 }
 .paragraph_footer{
     max-width: 264px;
@@ -239,7 +244,7 @@ a:hover{
    
 }
 .div-lis{
-    padding: 32px 16px;
+    padding: 32px 16px 32px;
 }
 
 .li-a{
