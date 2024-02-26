@@ -184,8 +184,13 @@ a:hover{
     color: #404bbf;
 }
 
-.address{
+.list{
     font-style: normal;
+    
+}
+.address-list{
+    display: flex;
+    gap: 40px;
 }
 
 .address-a{
